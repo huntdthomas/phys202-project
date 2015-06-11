@@ -1,0 +1,6 @@
+The notebooks are independent of one another. Retrograde Elliptic Passage.ipynb and Direct Parabolic Passage.ipynb do not use any .py files or read from any files; They do save solutions though. these are the .npz files (the data). The two other notebooks ending in "Presentation" are the two previous notebooks updated to read and write to files. This is just to streamline presentation.
+
+
+Please grade the code in the .py files, not the working code in the older notebooks (Direct Parabolic Passage, Retrograde Ellilptic Passage) as the .py files are more up to date. 
+
+Each notebook is an independent case concerning a different set of initial conditions and are set up to read from these specific ones (they read and write to already named files corresponding to the specific set of ic's). They practically have the same functionallity. 
